@@ -1,0 +1,20 @@
+{
+    "useTabs": false,
+    "tabWidth": 4,
+    "singleQuote": false,
+    "overrides": [
+        {
+            "files": ["**/*.ts", "**/*.js", "**/*.jsx", "**/*.svelte"],
+            "options": {
+                "singleQuote": true
+            }
+        }
+    ],
+    "trailingComma": "none",
+    "printWidth": 100,
+    "svelteIndentScriptAndStyle": true,
+    "svelteSortOrder": "options-styles-scripts-markup",
+    "svelteStrictMode": true,
+    "svelteBracketNewLine": false,
+    "svelteAllowShorthand": false
+}
