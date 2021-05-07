@@ -3,3 +3,12 @@ node_modules
 /.svelte-kit
 /build
 /functions
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
