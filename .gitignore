@@ -12,3 +12,5 @@ node_modules
 *.launch
 .settings/
 *.sublime-workspace
+.node-version
+.npm-version
