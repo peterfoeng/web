@@ -1,5 +1,5 @@
 {
-    "name": "Peter Foeng Website built with SvelteKit",
+    "name": "web-peterfoeng",
     "version": "0.0.1",
     "scripts": {
         "dev": "svelte-kit dev",
