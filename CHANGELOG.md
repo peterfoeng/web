@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/peterfoeng/web/compare/v1.0.0...v1.0.1) (2022-10-13)
+
+
+### Bug Fixes
+
+* update copy ([c64abe3](https://github.com/peterfoeng/web/commit/c64abe3a6e3d29467d48b96cdc6cc3a741da0c74))
+
 ## 1.0.0 (2022-10-13)
 
 
